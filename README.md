@@ -1,9 +1,7 @@
-### Hi there 👋 [about me](https://imxiaow.github.io/) &bull;  [linkedin](https://www.linkedin.com/in/imxiaow/) &bull; [twitter](https://twitter.com/xiaow9596) &bull; [codepen](https://codepen.io/imxiaow/) 
+### Hi there 👋 [about me](https://imxiaow.github.io/) &bull;  [linkedin](https://www.linkedin.com/in/imxiaow/) &bull; [twitter](https://twitter.com/xiaow9596) &bull; [codepen](https://codepen.io/imxiaow/)  &bull; [github for work](https://github.com/XiaoW9596)<br>
+<br>
+<br>
 
-[github for work](https://github.com/XiaoW9596)<br>
-<br>
-<br>
-<br>
 ![Xiao's github stats](https://github-readme-stats.vercel.app/api?username=imxiaow&show_icons=true)
 
 

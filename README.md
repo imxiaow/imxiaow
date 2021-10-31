@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 [about me](https://imxiaow.github.io/) &bull;  [linkedin](https://www.linkedin.com/in/imxiaow/) &bull; [twitter](https://twitter.com/xiaow9596) &bull; [codepen](https://codepen.io/imxiaow/) 
 
-she/her &bull; [me](https://imxiaow.github.io/) &bull;  [linkedin](https://www.linkedin.com/in/imxiaow/) &bull; [codepen](https://codepen.io/imxiaow/) 
-[twitter](https://twitter.com/xiaow9596) <br>
 [github for work](https://github.com/XiaoW9596)<br>
 
 

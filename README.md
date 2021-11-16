@@ -2,7 +2,7 @@
 <br>
 <br>
 
-![Xiao's github stats]()
+![Xiao's github stats](https://github-readme-stats.vercel.app/api?username=imxiaow&show_icons=true)
 
 
 
